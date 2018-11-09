@@ -45,21 +45,13 @@ https://arxiv.org/abs/1805.01934
 
 ## Unpair learning
 
-- CVPR18: Deep Photo Enhancer
+- CVPR18: Deep Photo Enhancer (https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf)
 
-https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf
+- CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (https://arxiv.org/abs/1703.10593)
 
-- CycleGAN : Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+- AugCGAN: Augmented CycleGAN (https://arxiv.org/pdf/1802.10151.pdf)
 
-https://arxiv.org/abs/1703.10593
-
-- AugCGAN: Augmented CycleGAN
-
-https://arxiv.org/pdf/1802.10151.pdf
-
-- CVPR18: WISPE: Weakly Supervised Photo Enhancer for Digital Cameras
-
-https://github.com/JuheonYi/WESPE-TensorFlow
-https://arxiv.org/pdf/1709.01118.pdf
+- CVPR18: WISPE: Weakly Supervised Photo Enhancer for Digital Cameras (https://github.com/JuheonYi/WESPE-TensorFlow)
+(https://arxiv.org/pdf/1709.01118.pdf)
 
 
