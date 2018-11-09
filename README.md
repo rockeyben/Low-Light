@@ -57,3 +57,9 @@ https://arxiv.org/abs/1703.10593
 
 https://arxiv.org/pdf/1802.10151.pdf
 
+- CVPR18: WISPE: Weakly Supervised Photo Enhancer for Digital Cameras
+
+https://github.com/JuheonYi/WESPE-TensorFlow
+https://arxiv.org/pdf/1709.01118.pdf
+
+
