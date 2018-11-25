@@ -67,7 +67,7 @@ Low light &amp; Unpair training
 
   | Night                                                        | Day                                                          |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\frame_05c3e17847ff03feac36c558ae4899f2_10bf5f7edad1d53ef9e4e78c21bb8631_0-1280_720.jpg) | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\frame_35a791b1-a5b8-4a69-877e-663e7c0540f7_00011-1280_720.jpg) |
+  | ![](.\images\frame_05c3e17847ff03feac36c558ae4899f2_10bf5f7edad1d53ef9e4e78c21bb8631_0-1280_720.jpg) | ![](.\images\frame_35a791b1-a5b8-4a69-877e-663e7c0540f7_00011-1280_720.jpg) |
 
 - KAIST dataset
 
@@ -78,9 +78,9 @@ Low light &amp; Unpair training
   - feature: with extra **thermal** annotation
   - scene: road, campus, downtown
 
-  | Night                                                        | Thermal                                                      | Day                                                          |
-  | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\I00011.jpg) | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\I00011_thernal.jpg) | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\I00275.jpg) |
+  | Night                    | Thermal                          | Day                      |
+  | ------------------------ | -------------------------------- | ------------------------ |
+  | ![](.\images\I00011.jpg) | ![](.\images\I00011_thernal.jpg) | ![](.\images\I00275.jpg) |
 
 - Adobe 5K
 
@@ -90,6 +90,6 @@ Low light &amp; Unpair training
   - resolution: 4000x2000
   - feature: high resolution, high quality day time pictures
 
-  | Day                                                          | Day                                                          |
-  | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\蜂蜜浏览器_a0006-IMG_2787.jpg) | ![](E:\学习\Laboratry\low_light_image\Low-Light-master\蜂蜜浏览器_a0025-kme_298.jpg) |
+  | Day                                         | Day                                        |
+  | ------------------------------------------- | ------------------------------------------ |
+  | ![](.\images\蜂蜜浏览器_a0006-IMG_2787.jpg) | ![](.\images\蜂蜜浏览器_a0025-kme_298.jpg) |
